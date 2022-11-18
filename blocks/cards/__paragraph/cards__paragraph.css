@@ -1,0 +1,9 @@
+.cards__paragraph {
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+  color: #1F3F68;
+  opacity: .6;
+  margin: 0;
+  padding-bottom: 32px;
+}

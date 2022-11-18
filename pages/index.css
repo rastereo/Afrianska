@@ -16,6 +16,20 @@
 /** Link **/
 @import url(../blocks/link/link.css);
 
+/** Service **/
+@import url(../blocks/service/service.css);
 
+/** Section-title **/
+@import url(../blocks/section-title/section-title.css);
 
-
+/** Cards **/
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__circle/cards__circle.css);
+@import url(../blocks/cards/__picture/cards__picture.css);
+@import url(../blocks/cards/__picture/_position/cards__picture_position_one.css);
+@import url(../blocks/cards/__picture/_position/cards__picture_position_two.css);
+@import url(../blocks/cards/__picture/_position/cards__picture_position_three.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__paragraph/cards__paragraph.css);
+@import url(../blocks/cards/__link/cards__link.css);

@@ -1,0 +1,21 @@
+.cards__link {
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0.05em;
+  font-weight: bold;
+  color: #5A98D0;
+  width: 79px;
+  position: relative;
+}
+
+.cards__link::after {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  right: -44px;
+  background-image: url("../../images/pointer.svg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}

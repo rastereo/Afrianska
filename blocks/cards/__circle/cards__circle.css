@@ -1,0 +1,8 @@
+.cards__circle {
+  width: 132px;
+  min-height: 132px;
+  border-radius: 50%;
+  background: linear-gradient(180.99deg, rgba(255, 255, 255, 0) 20%, rgba(100, 181, 246, 0.5) 103.09%);
+  margin: 0 auto 56px;
+  position: relative;
+}
