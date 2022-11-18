@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Galien";
+  src: url("./Galien/TRYGalien-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url(./Gilroy/Gilroy-Light.woff) format('woff');
+  /* src: url(./fonts/Gilroy/Gilroy-Regular.ttf) format('truetype');
+  src: url(./fonts/Gilroy/Gilroy-Regular.eot) format('opentype'); */
+}

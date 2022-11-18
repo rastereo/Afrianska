@@ -1,0 +1,11 @@
+.header__title {
+  font-family: 'Galien';
+  font-size: 64px;
+  line-height: 74px;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  color: #1F3F68;
+  width: 512px;
+  margin: 0;
+  padding-bottom: 32px;
+}

@@ -1,0 +1,6 @@
+.page {
+  max-width: 1366px;
+  /* min-width: 768px; */
+  margin: 0 auto;
+  font-family: 'Gilroy', sans-serif;
+}
