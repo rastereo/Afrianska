@@ -1,0 +1,11 @@
+.grid {
+  width: 70%;
+  list-style: none;
+  display: grid;
+  grid-row: 2;
+  grid-column: 4;
+  grid-template-columns: repeat(4, 235px);
+  grid-template-rows: repeat(2, 128px);
+  margin: 0 auto;
+  padding: 0;
+}

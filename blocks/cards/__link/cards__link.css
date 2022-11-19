@@ -17,3 +17,7 @@
   right: -44px;
   background-image: url("../../../images/pointer.svg");
 }
+
+.cards__link:visited {
+  color: #5A98D0;
+}

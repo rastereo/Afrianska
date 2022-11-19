@@ -24,6 +24,8 @@
 
 /** Section-title **/
 @import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_size/section-title_size_s.css);
+@import url(../blocks/section-title/_size/section-title_size_m.css);
 
 /** Cards **/
 @import url(../blocks/cards/cards.css);
@@ -39,12 +41,25 @@
 
 /** Projects **/
 @import url(../blocks/projects/projects.css);
-@import url(../blocks/projects/__description/projects__description.css);
-@import url(../blocks/projects/__paragraph/projects__paragraph.css);
 
 /** Table **/
-@import url(../blocks/table/table.css);
+@import url(../blocks/table/table.css); /* поменять table на grid */
 @import url(../blocks/table/__item/table__item.css);
 @import url(../blocks/table/__image/table__image.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__description/table__description.css);
+
+/** Description **/
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__paragraph/description__paragraph.css);
+
+/** Color-white **/
+@import url(../blocks/color-white/color-white.css);
+
+/** Clients **/
+@import url(../blocks/clients/clients.css);
+
+/** Grid **/
+@import url(../blocks/grid/grid.css);
+@import url(../blocks/grid/__item/grid__item.css);
+@import url(../blocks/grid/__item/_active/grid__item_active.css);

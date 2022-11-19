@@ -1,0 +1,4 @@
+.grid__item_active {
+  text-transform: none;
+  background: rgba(31,	63,	104, .2);
+}
