@@ -1,5 +1,5 @@
 /** Page **/
-@import url(../blocks/page/page.css);
+@import url(../blocks/page/page.css); /* сделать размеры шрифтов *.
 
 /** Header **/
 @import url(../blocks/header/header.css);
@@ -9,6 +9,9 @@
 @import url(../blocks/header/__text/header__text.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__image/header__image.css);
+
+/** Content **/
+@import url(../blocks/content/content.css);
 
 /** Logo **/
 @import url(../blocks/logo/logo.css);
@@ -27,9 +30,21 @@
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__circle/cards__circle.css);
 @import url(../blocks/cards/__picture/cards__picture.css);
-@import url(../blocks/cards/__picture/_position/cards__picture_position_one.css);
+@import url(../blocks/cards/__picture/_position/cards__picture_position_one.css); /* переделать на nth-of-type() */
 @import url(../blocks/cards/__picture/_position/cards__picture_position_two.css);
 @import url(../blocks/cards/__picture/_position/cards__picture_position_three.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__paragraph/cards__paragraph.css);
 @import url(../blocks/cards/__link/cards__link.css);
+
+/** Projects **/
+@import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/__description/projects__description.css);
+@import url(../blocks/projects/__paragraph/projects__paragraph.css);
+
+/** Table **/
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__item/table__item.css);
+@import url(../blocks/table/__image/table__image.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__description/table__description.css);

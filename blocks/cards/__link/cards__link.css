@@ -15,7 +15,5 @@
   height: 16px;
   top: 0;
   right: -44px;
-  background-image: url("../../images/pointer.svg");
-  background-repeat: no-repeat;
-  background-position: 0 0;
+  background-image: url("../../../images/pointer.svg");
 }
