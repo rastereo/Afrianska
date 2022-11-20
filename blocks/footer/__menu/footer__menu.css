@@ -1,0 +1,12 @@
+.footer__menu {
+  width: 70%;
+  height: 318px;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+  gap: 0 90px;
+  margin: 0 auto;
+  padding-top: 96px;
+  position: relative;
+}

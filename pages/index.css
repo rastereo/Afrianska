@@ -1,5 +1,5 @@
 /** Page **/
-@import url(../blocks/page/page.css); /* сделать размеры шрифтов *.
+@import url(../blocks/page/page.css); /* сделать размеры шрифтов */
 
 /** Header **/
 @import url(../blocks/header/header.css);
@@ -63,3 +63,24 @@
 @import url(../blocks/grid/grid.css);
 @import url(../blocks/grid/__item/grid__item.css);
 @import url(../blocks/grid/__item/_active/grid__item_active.css);
+
+/** Footer **/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__items/footer__items.css);
+@import url(../blocks/footer/__item/footer__item.css);
+
+
+/** Subscribe **/
+@import url(../blocks/subscribe/subscribe.css);
+@import url(../blocks/subscribe/__description/subscribe__description.css);
+@import url(../blocks/subscribe/__text/subscribe__text.css);
+@import url(../blocks/subscribe/__link/subscribe__link.css);
+
+/** Contacts **/
+@import url(../blocks/Contacts/Contacts.css);
+@import url(../blocks/Contacts/__item/Contacts__item.css);
+@import url(../blocks/Contacts/__heading/Contacts__heading.css);
+@import url(../blocks/Contacts/__info/Contacts__info.css);

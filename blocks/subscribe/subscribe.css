@@ -1,0 +1,17 @@
+.subscribe {
+  min-height: 204px;
+  display: flex;
+  align-items: center;
+  gap: 0 180px;
+  margin: 0 auto;
+  padding-bottom: 96px;
+  position: relative;
+}
+
+.subscribe::before {
+  content: "";
+  width: 78%;
+  position: absolute;
+  bottom: 0;
+  border-bottom: 1px solid rgba(255, 255, 255, .4);
+}
