@@ -3,12 +3,9 @@
   --biscay: #1f3f68;
   --blue: #5a98d0;
   --dark-blue: #316099;
-
   --header-background-gardient: linear-gradient(0deg, rgba(152, 195, 232, .2) 8.84%, rgba(152, 195, 232, 0) 31.12%);
-
   --button-shadow: 5px 10px 20px rgba(53, 110, 173, .2);
   --cards-shadow: 5px 20px 50px rgba(16, 112, 177, .2);
-
   --section-size: 69%;
 }
 

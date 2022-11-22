@@ -3,7 +3,7 @@
   line-height: 30px;
   letter-spacing: .05em;
   font-weight: bold;
-  color: #5A98D0;
+  color: var(--blue);
   width: 79px;
   position: relative;
 }
@@ -19,5 +19,5 @@
 }
 
 .cards__link:visited {
-  color: #5A98D0;
+  color: var(--blue);
 }

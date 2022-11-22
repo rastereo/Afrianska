@@ -1,5 +1,6 @@
 .description__paragraph {
   width: 540px;
+  color: var(--biscay);
   opacity: .6;
   margin: 0;
 }

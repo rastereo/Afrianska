@@ -28,6 +28,7 @@
 /** Description **/
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__paragraph/description__paragraph.css);
+@import url(../blocks/description/__paragraph/_color/description__paragraph_color_white.css);
 
 /** Footer **/
 @import url(../blocks/footer/footer.css);
