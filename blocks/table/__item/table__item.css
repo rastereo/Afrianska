@@ -1,6 +1,6 @@
 .table__item {
   position: relative;
-  box-shadow: 5px 10px 20px rgba(53, 110, 173, 0.3);
+  box-shadow: var(--button-shadow);
   overflow: hidden;
   border-radius: 20px;
 }

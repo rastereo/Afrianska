@@ -1,5 +1,5 @@
 .grid {
-  width: 70%;
+  width: var(--section-size);
   list-style: none;
   display: grid;
   grid-row: 2;

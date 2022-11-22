@@ -4,8 +4,8 @@
   line-height: 74px;
   font-weight: bold;
   letter-spacing: 0.04em;
-  color: #1F3F68;
+  color: var(--biscay);
   width: 512px;
   margin: 0;
-  padding-bottom: 32px;
+  padding-bottom: 40px;
 }

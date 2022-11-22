@@ -1,10 +1,7 @@
 .header__text {
-  font-size: 16px;
-  line-height: 26px;
-  letter-spacing: 0.05em;
-  color: #1F3F68;
-  opacity: .6;
   width: 425px;
+  color: var(--biscay);
+  opacity: .6;
   margin: 0;
-  padding-bottom: 86px;
+  padding-bottom: 90px;
 }

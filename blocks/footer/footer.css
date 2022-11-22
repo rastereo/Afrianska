@@ -1,5 +1,5 @@
 .footer {
-  background: #5A98D0;
+  background: var(--blue);
   position: relative;
   padding: 91px 0 64px;
 }
@@ -7,9 +7,9 @@
 .footer::before {
   content: "";
   position: absolute;
-  width: 90%;
+  width: 93%;
   top: 0;
   bottom: 0;
-  background-color: #316099;
-  border-radius: 0px 200px 0px 0px
+  background-color: var(--dark-blue);
+  border-radius: 0px 200px 0px 0px;
 }

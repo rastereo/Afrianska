@@ -1,5 +1,5 @@
 .service {
-  width: 70%;
+  width: var(--section-size);
   margin: 0 auto;
-  padding-top: 180px;
+  padding: 190px 0 41px;
 }

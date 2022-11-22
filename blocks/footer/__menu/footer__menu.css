@@ -1,5 +1,5 @@
 .footer__menu {
-  width: 70%;
+  width: var(--section-size);
   height: 318px;
   display: flex;
   flex-flow: column wrap;

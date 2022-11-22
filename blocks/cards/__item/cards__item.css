@@ -2,10 +2,10 @@
   width: 380px;
   box-sizing: border-box;
   padding: 48px;
-  box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+  box-shadow: var(--cards-shadow);
   border-radius: 10px;
 }
 
 .cards__item:nth-of-type(1) {
-  margin-top: 308px;
+  margin-top: 300px;
 }

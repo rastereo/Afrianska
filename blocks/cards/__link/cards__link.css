@@ -1,7 +1,7 @@
 .cards__link {
   font-size: 14px;
   line-height: 30px;
-  letter-spacing: 0.05em;
+  letter-spacing: .05em;
   font-weight: bold;
   color: #5A98D0;
   width: 79px;

@@ -1,12 +1,10 @@
 .table__description {
-  font-size: 16px;
   line-height: 46px;
-  letter-spacing: 0.05em;
-  color: #FFF;
-  opacity: 0.8;
+  color: var(--basic-white);
+  opacity: .8;
   margin: 0;
   z-index: 1;
   position: absolute;
-  top: 108px;
-  right: 49px;
+  top: 73px;
+  left: 34px;
 }

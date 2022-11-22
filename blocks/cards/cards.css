@@ -2,11 +2,10 @@
   height: 1162px;
   list-style: none;
   display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+  flex-flow: column wrap;
   justify-content: space-between;
   align-items: flex-end;
-  gap: 100px;
+  gap: 10px 20px;
   margin: 0;
   padding: 0;
   position: relative;

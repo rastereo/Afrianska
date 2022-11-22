@@ -1,5 +1,6 @@
 .subscribe__link {
   padding: 15px 75px;
-  background-color: #5A98D0;
+  background: var(--blue);
+  box-shadow: var(--button-shadow);
   border-radius: 10px;
 }

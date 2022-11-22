@@ -4,7 +4,7 @@
 }
 
 .link:visited {
-  color: #fff;
+  color: var(--basic-white);
 }
 
 .link:hover {
