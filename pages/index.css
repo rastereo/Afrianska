@@ -6,12 +6,6 @@
 
 /** Cards **/
 @import url('../blocks/cards/cards.css');
-@import url('../blocks/cards/__item/cards__item.css');
-@import url('../blocks/cards/__circle/cards__circle.css');
-@import url('../blocks/cards/__picture/cards__picture.css');
-@import url('../blocks/cards/__title/cards__title.css');
-@import url('../blocks/cards/__paragraph/cards__paragraph.css');
-@import url('../blocks/cards/__link/cards__link.css');
 
 /** Clients **/
 @import url('../blocks/clients/clients.css');
