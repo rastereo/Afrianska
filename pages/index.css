@@ -77,7 +77,7 @@
 @import url('../blocks/subscribe/__link/subscribe__link.css');
 
 /** Table **/
-@import url('../blocks/table/table.css'); /* поменять table на grid */
+@import url('../blocks/table/table.css');
 @import url('../blocks/table/__item/table__item.css');
 @import url('../blocks/table/__image/table__image.css');
 @import url('../blocks/table/__heading/table__heading.css');
