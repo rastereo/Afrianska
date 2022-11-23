@@ -1,86 +1,86 @@
 /** Normalize **/
-@import url('/svendor/normalize.css');
+@import url('../svendor/normalize.css');
 
 /** Root **/
-@import url('/blocks/root/root.css');
+@import url('../blocks/root/root.css');
 
 /** Cards **/
-@import url('/blocks/cards/cards.css');
-@import url('/blocks/cards/__item/cards__item.css');
-@import url('/blocks/cards/__circle/cards__circle.css');
-@import url('/blocks/cards/__picture/cards__picture.css');
-@import url('/blocks/cards/__title/cards__title.css');
-@import url('/blocks/cards/__paragraph/cards__paragraph.css');
-@import url('/blocks/cards/__link/cards__link.css');
+@import url('../blocks/cards/cards.css');
+@import url('../blocks/cards/__item/cards__item.css');
+@import url('../blocks/cards/__circle/cards__circle.css');
+@import url('../blocks/cards/__picture/cards__picture.css');
+@import url('../blocks/cards/__title/cards__title.css');
+@import url('../blocks/cards/__paragraph/cards__paragraph.css');
+@import url('../blocks/cards/__link/cards__link.css');
 
 /** Clients **/
-@import url('/blocks/clients/clients.css');
+@import url('../blocks/clients/clients.css');
 
 /** Color-white **/
-@import url('/blocks/color-white/color-white.css');
+@import url('../blocks/color-white/color-white.css');
 
 /** Contacts **/
-@import url('/blocks/Contacts/Contacts.css');
-@import url('/blocks/Contacts/__item/Contacts__item.css');
-@import url('/blocks/Contacts/__heading/Contacts__heading.css');
-@import url('/blocks/Contacts/__info/Contacts__info.css');
+@import url('../blocks/Contacts/Contacts.css');
+@import url('../blocks/Contacts/__item/Contacts__item.css');
+@import url('../blocks/Contacts/__heading/Contacts__heading.css');
+@import url('../blocks/Contacts/__info/Contacts__info.css');
 
 /** Description **/
-@import url('/blocks/description/description.css');
-@import url('/blocks/description/__paragraph/description__paragraph.css');
-@import url('/blocks/description/__paragraph/_color/description__paragraph_color_white.css');
+@import url('../blocks/description/description.css');
+@import url('../blocks/description/__paragraph/description__paragraph.css');
+@import url('../blocks/description/__paragraph/_color/description__paragraph_color_white.css');
 
 /** Footer **/
-@import url('/blocks/footer/footer.css');
-@import url('/blocks/footer/__menu/footer__menu.css');
-@import url('/blocks/footer/__author/footer__author.css');
-@import url('/blocks/footer/__title/footer__title.css');
-@import url('/blocks/footer/__items/footer__items.css');
-@import url('/blocks/footer/__item/footer__item.css');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__menu/footer__menu.css');
+@import url('../blocks/footer/__author/footer__author.css');
+@import url('../blocks/footer/__title/footer__title.css');
+@import url('../blocks/footer/__items/footer__items.css');
+@import url('../blocks/footer/__item/footer__item.css');
 
 /** Grid **/
-@import url('/blocks/grid/grid.css');
-@import url('/blocks/grid/__item/grid__item.css');
-@import url('/blocks/grid/__item/_active/grid__item_active.css');
+@import url('../blocks/grid/grid.css');
+@import url('../blocks/grid/__item/grid__item.css');
+@import url('../blocks/grid/__item/_active/grid__item_active.css');
 
 /** Header **/
-@import url('/blocks/header/header.css');
-@import url('/blocks/header/__menu/header__menu.css');
-@import url('/blocks/header/__content/header__content.css');
-@import url('/blocks/header/__title/header__title.css');
-@import url('/blocks/header/__text/header__text.css');
-@import url('/blocks/header/__link/header__link.css');
-@import url('/blocks/header/__image/header__image.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__menu/header__menu.css');
+@import url('../blocks/header/__content/header__content.css');
+@import url('../blocks/header/__title/header__title.css');
+@import url('../blocks/header/__text/header__text.css');
+@import url('../blocks/header/__link/header__link.css');
+@import url('../blocks/header/__image/header__image.css');
 
 /** Link **/
-@import url('/blocks/link/link.css');
+@import url('../blocks/link/link.css');
 
 /** Logo **/
-@import url('/blocks/logo/logo.css');
+@import url('../blocks/logo/logo.css');
 
 /** Projects **/
-@import url('/blocks/projects/projects.css');
+@import url('../blocks/projects/projects.css');
 
 /** Section-title **/
-@import url('/blocks/section-title/section-title.css');
-@import url('/blocks/section-title/_size/section-title_size_s.css');
-@import url('/blocks/section-title/_size/section-title_size_m.css');
-@import url('/blocks/section-title/_color/section-title_color_blue.css');
+@import url('../blocks/section-title/section-title.css');
+@import url('../blocks/section-title/_size/section-title_size_s.css');
+@import url('../blocks/section-title/_size/section-title_size_m.css');
+@import url('../blocks/section-title/_color/section-title_color_blue.css');
 
 /** Service **/
-@import url('/blocks/service/service.css');
+@import url('../blocks/service/service.css');
 
 /** Subscribe **/
-@import url('/blocks/subscribe/subscribe.css');
-@import url('/blocks/subscribe/__description/subscribe__description.css');
-@import url('/blocks/subscribe/__text/subscribe__text.css');
-@import url('/blocks/subscribe/__link/subscribe__link.css');
+@import url('../blocks/subscribe/subscribe.css');
+@import url('../blocks/subscribe/__description/subscribe__description.css');
+@import url('../blocks/subscribe/__text/subscribe__text.css');
+@import url('../blocks/subscribe/__link/subscribe__link.css');
 
 /** Table **/
-@import url('/blocks/table/table.css'); /* поменять table на grid */
-@import url('/blocks/table/__item/table__item.css');
-@import url('/blocks/table/__image/table__image.css');
-@import url('/blocks/table/__heading/table__heading.css');
-@import url('/blocks/table/__heading/_position/table__heading_position_left.css');
-@import url('/blocks/table/__description/table__description.css');
-@import url('/blocks/table/__description/_position/table__description_position_left.css');
+@import url('../blocks/table/table.css'); /* поменять table на grid */
+@import url('../blocks/table/__item/table__item.css');
+@import url('../blocks/table/__image/table__image.css');
+@import url('../blocks/table/__heading/table__heading.css');
+@import url('../blocks/table/__heading/_position/table__heading_position_left.css');
+@import url('../blocks/table/__description/table__description.css');
+@import url('../blocks/table/__description/_position/table__description_position_left.css');
