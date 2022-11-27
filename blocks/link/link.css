@@ -3,10 +3,6 @@
   transition: opacity .7s;
 }
 
-.link:visited {
-  color: var(--basic-white);
-}
-
 .link:hover {
   opacity: .7;
 }

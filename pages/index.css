@@ -1,89 +1,89 @@
 /** Normalize **/
-@import "../vendor/normalize.css";
+@import "/vendor/normalize.css";
 
 /** Fonts **/
-@import "../fonts/fonts.css";
+@import "/fonts/fonts.css";
 
 /** Root **/
-@import "../blocks/root/root.css";
+@import "/blocks/root/root.css";
 
 /** Cards **/
-@import "../blocks/cards/cards.css";
-@import "../blocks/cards/__item/cards__item.css";
-@import "../blocks/cards/__circle/cards__circle.css";
-@import "../blocks/cards/__picture/cards__picture.css";
-@import "../blocks/cards/__title/cards__title.css";
-@import "../blocks/cards/__paragraph/cards__paragraph.css";
-@import "../blocks/cards/__link/cards__link.css";
+@import "/blocks/cards/cards.css";
+@import "/blocks/cards/__item/cards__item.css";
+@import "/blocks/cards/__circle/cards__circle.css";
+@import "/blocks/cards/__picture/cards__picture.css";
+@import "/blocks/cards/__title/cards__title.css";
+@import "/blocks/cards/__paragraph/cards__paragraph.css";
+@import "/blocks/cards/__link/cards__link.css";
 
 /** Clients **/
-@import "../blocks/clients/clients.css";
+@import "/blocks/clients/clients.css";
 
 /** Color-white **/
-@import "../blocks/color-white/color-white.css";
+@import "/blocks/color-white/color-white.css";
 
 /** Contacts **/
-@import "../blocks/contacts/contacts.css";
-@import "../blocks/contacts/__item/contacts__item.css";
-@import "../blocks/contacts/__heading/contacts__heading.css";
-@import "../blocks/contacts/__info/contacts__info.css";
+@import "/blocks/contacts/contacts.css";
+@import "/blocks/contacts/__item/contacts__item.css";
+@import "/blocks/contacts/__heading/contacts__heading.css";
+@import "/blocks/contacts/__info/contacts__info.css";
 
 /** Description **/
-@import "../blocks/description/description.css";
-@import "../blocks/description/__paragraph/description__paragraph.css";
-@import "../blocks/description/__paragraph/_color/description__paragraph_color_white.css";
+@import "/blocks/description/description.css";
+@import "/blocks/description/__paragraph/description__paragraph.css";
+@import "/blocks/description/__paragraph/_color/description__paragraph_color_white.css";
 
 /** Footer **/
-@import "../blocks/footer/footer.css";
-@import "../blocks/footer/__menu/footer__menu.css";
-@import "../blocks/footer/__author/footer__author.css";
-@import "../blocks/footer/__title/footer__title.css";
-@import "../blocks/footer/__items/footer__items.css";
-@import "../blocks/footer/__item/footer__item.css";
+@import "/blocks/footer/footer.css";
+@import "/blocks/footer/__menu/footer__menu.css";
+@import "/blocks/footer/__author/footer__author.css";
+@import "/blocks/footer/__title/footer__title.css";
+@import "/blocks/footer/__items/footer__items.css";
+@import "/blocks/footer/__item/footer__item.css";
 
 /** Grid **/
-@import "../blocks/grid/grid.css";
-@import "../blocks/grid/__item/grid__item.css";
-@import "../blocks/grid/__item/_active/grid__item_active.css";
+@import "/blocks/grid/grid.css";
+@import "/blocks/grid/__item/grid__item.css";
+@import "/blocks/grid/__item/_active/grid__item_active.css";
 
 /** Header **/
-@import "../blocks/header/header.css";
-@import "../blocks/header/__menu/header__menu.css";
-@import "../blocks/header/__content/header__content.css";
-@import "../blocks/header/__title/header__title.css";
-@import "../blocks/header/__text/header__text.css";
-@import "../blocks/header/__link/header__link.css";
-@import "../blocks/header/__image/header__image.css";
+@import "/blocks/header/header.css";
+@import "/blocks/header/__menu/header__menu.css";
+@import "/blocks/header/__content/header__content.css";
+@import "/blocks/header/__title/header__title.css";
+@import "/blocks/header/__text/header__text.css";
+@import "/blocks/header/__link/header__link.css";
+@import "/blocks/header/__image/header__image.css";
 
 /** Link **/
-@import "../blocks/link/link.css";
+@import "/blocks/link/link.css";
 
 /** Logo **/
-@import "../blocks/logo/logo.css";
+@import "/blocks/logo/logo.css";
 
 /** Projects **/
-@import "../blocks/projects/projects.css";
+@import "/blocks/projects/projects.css";
 
 /** Section-title **/
-@import "../blocks/section-title/section-title.css";
-@import "../blocks/section-title/_size/section-title_size_s.css";
-@import "../blocks/section-title/_size/section-title_size_m.css";
-@import "../blocks/section-title/_color/section-title_color_blue.css";
+@import "/blocks/section-title/section-title.css";
+@import "/blocks/section-title/_size/section-title_size_s.css";
+@import "/blocks/section-title/_size/section-title_size_m.css";
+@import "/blocks/section-title/_color/section-title_color_blue.css";
 
 /** Service **/
-@import "../blocks/service/service.css";
+@import "/blocks/service/service.css";
 
 /** Subscribe **/
-@import "../blocks/subscribe/subscribe.css";
-@import "../blocks/subscribe/__description/subscribe__description.css";
-@import "../blocks/subscribe/__text/subscribe__text.css";
-@import "../blocks/subscribe/__link/subscribe__link.css";
+@import "/blocks/subscribe/subscribe.css";
+@import "/blocks/subscribe/__description/subscribe__description.css";
+@import "/blocks/subscribe/__text/subscribe__text.css";
+@import "/blocks/subscribe/__link/subscribe__link.css";
 
 /** Table **/
-@import "../blocks/table/table.css";
-@import "../blocks/table/__item/table__item.css";
-@import "../blocks/table/__image/table__image.css";
-@import "../blocks/table/__heading/table__heading.css";
-@import "../blocks/table/__heading/_position/table__heading_position_left.css";
-@import "../blocks/table/__description/table__description.css";
-@import "../blocks/table/__description/_position/table__description_position_left.css";
+@import "/blocks/table/table.css";
+@import "/blocks/table/__item/table__item.css";
+@import "/blocks/table/__image/table__image.css";
+@import "/blocks/table/__heading/table__heading.css";
+@import "/blocks/table/__heading/_position/table__heading_position_left.css";
+@import "/blocks/table/__description/table__description.css";
+@import "/blocks/table/__description/_position/table__description_position_left.css";
